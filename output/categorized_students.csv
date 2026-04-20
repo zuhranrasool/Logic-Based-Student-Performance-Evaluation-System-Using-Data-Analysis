@@ -1,0 +1,271 @@
+RollNo,Name,Subject,Attendance,Quiz,Mid,Final,Total,Category
+BSCS-F25-M-01,Mahnoor Fatima,Discrete Mathematics,9,12,28,34,83,Safe
+BSCS-F25-M-01,Mahnoor Fatima,Information of Communication and Technology,10,14,31,38,93,Safe
+BSCS-F25-M-01,Mahnoor Fatima,Programming Fundamental,8,11,29,35,83,Safe
+BSCS-F25-M-01,Mahnoor Fatima,Probability and Statistics,9,13,30,36,88,Safe
+BSCS-F25-M-01,Mahnoor Fatima,Functional English,10,15,33,39,97,Safe
+BSCS-F25-M-01,Mahnoor Fatima,Quran Translation,10,14,34,37,95,Safe
+BSCS-F25-M-02,Muhammad Saif Ali,Discrete Mathematics,8,11,27,33,79,Safe
+BSCS-F25-M-02,Muhammad Saif Ali,Information of Communication and Technology,9,13,30,35,87,Safe
+BSCS-F25-M-02,Muhammad Saif Ali,Programming Fundamental,10,12,32,38,92,Safe
+BSCS-F25-M-02,Muhammad Saif Ali,Probability and Statistics,7,10,25,31,73,Safe
+BSCS-F25-M-02,Muhammad Saif Ali,Functional English,9,14,31,36,90,Safe
+BSCS-F25-M-02,Muhammad Saif Ali,Quran Translation,10,15,35,40,100,Safe
+BSCS-F25-M-03,Zeeshan Ali,Discrete Mathematics,9,14,31,37,91,Safe
+BSCS-F25-M-03,Zeeshan Ali,Information of Communication and Technology,8,11,28,34,81,Safe
+BSCS-F25-M-03,Zeeshan Ali,Programming Fundamental,10,15,33,39,97,Safe
+BSCS-F25-M-03,Zeeshan Ali,Probability and Statistics,9,12,29,35,85,Safe
+BSCS-F25-M-03,Zeeshan Ali,Functional English,10,13,32,38,93,Safe
+BSCS-F25-M-03,Zeeshan Ali,Quran Translation,9,11,30,36,86,Safe
+BSCS-F25-M-04,Muhammad Taha,Discrete Mathematics,7,10,26,30,73,Safe
+BSCS-F25-M-04,Muhammad Taha,Information of Communication and Technology,8,12,29,35,84,Safe
+BSCS-F25-M-04,Muhammad Taha,Programming Fundamental,9,11,31,37,88,Safe
+BSCS-F25-M-04,Muhammad Taha,Probability and Statistics,10,14,34,39,97,Safe
+BSCS-F25-M-04,Muhammad Taha,Functional English,9,13,30,36,88,Safe
+BSCS-F25-M-04,Muhammad Taha,Quran Translation,10,15,35,38,98,Safe
+BSCS-F25-M-05,Kashaf Jamshed,Discrete Mathematics,9,13,30,34,86,Safe
+BSCS-F25-M-05,Kashaf Jamshed,Information of Communication and Technology,10,14,32,37,93,Safe
+BSCS-F25-M-05,Kashaf Jamshed,Programming Fundamental,8,12,28,33,81,Safe
+BSCS-F25-M-05,Kashaf Jamshed,Probability and Statistics,9,11,31,36,87,Safe
+BSCS-F25-M-05,Kashaf Jamshed,Functional English,10,15,34,39,98,Safe
+BSCS-F25-M-05,Kashaf Jamshed,Quran Translation,9,13,29,35,86,Safe
+BSCS-F25-M-06,Madiha Usman Raja,Discrete Mathematics,10,15,35,40,100,Safe
+BSCS-F25-M-06,Madiha Usman Raja,Information of Communication and Technology,9,13,31,36,89,Safe
+BSCS-F25-M-06,Madiha Usman Raja,Programming Fundamental,10,14,33,38,95,Safe
+BSCS-F25-M-06,Madiha Usman Raja,Probability and Statistics,8,11,27,33,79,Safe
+BSCS-F25-M-06,Madiha Usman Raja,Functional English,10,15,35,40,100,Safe
+BSCS-F25-M-06,Madiha Usman Raja,Quran Translation,9,12,29,35,85,Safe
+BSCS-F25-M-07,Hammad Mustafa,Discrete Mathematics,7,9,24,28,68,Safe
+BSCS-F25-M-07,Hammad Mustafa,Information of Communication and Technology,8,10,26,31,75,Safe
+BSCS-F25-M-07,Hammad Mustafa,Programming Fundamental,9,12,30,35,86,Safe
+BSCS-F25-M-07,Hammad Mustafa,Probability and Statistics,10,14,33,38,95,Safe
+BSCS-F25-M-07,Hammad Mustafa,Functional English,8,11,27,32,78,Safe
+BSCS-F25-M-07,Hammad Mustafa,Quran Translation,10,15,35,39,99,Safe
+BSCS-F25-M-08,Areeba Ibrahim,Discrete Mathematics,10,14,33,38,95,Safe
+BSCS-F25-M-08,Areeba Ibrahim,Information of Communication and Technology,10,15,34,39,98,Safe
+BSCS-F25-M-08,Areeba Ibrahim,Programming Fundamental,9,13,31,36,89,Safe
+BSCS-F25-M-08,Areeba Ibrahim,Probability and Statistics,10,12,32,37,91,Safe
+BSCS-F25-M-08,Areeba Ibrahim,Functional English,9,14,30,35,88,Safe
+BSCS-F25-M-08,Areeba Ibrahim,Quran Translation,10,15,35,40,100,Safe
+BSCS-F25-M-09,Ikrash Haider,Discrete Mathematics,8,10,25,30,73,Safe
+BSCS-F25-M-09,Ikrash Haider,Information of Communication and Technology,7,9,24,29,69,Safe
+BSCS-F25-M-09,Ikrash Haider,Programming Fundamental,9,13,31,37,90,Safe
+BSCS-F25-M-09,Ikrash Haider,Probability and Statistics,10,14,33,38,95,Safe
+BSCS-F25-M-09,Ikrash Haider,Functional English,9,12,29,35,85,Safe
+BSCS-F25-M-09,Ikrash Haider,Quran Translation,8,11,27,33,79,Safe
+BSCS-F25-M-10,Hijab Nisa,Discrete Mathematics,10,15,34,39,98,Safe
+BSCS-F25-M-10,Hijab Nisa,Information of Communication and Technology,10,14,33,38,95,Safe
+BSCS-F25-M-10,Hijab Nisa,Programming Fundamental,9,12,31,36,88,Safe
+BSCS-F25-M-10,Hijab Nisa,Probability and Statistics,10,15,35,40,100,Safe
+BSCS-F25-M-10,Hijab Nisa,Functional English,9,13,30,35,87,Safe
+BSCS-F25-M-10,Hijab Nisa,Quran Translation,10,14,34,39,97,Safe
+BSCS-F25-M-11,Hira Asif,Discrete Mathematics,8,11,27,32,78,Safe
+BSCS-F25-M-11,Hira Asif,Information of Communication and Technology,9,12,28,34,83,Safe
+BSCS-F25-M-11,Hira Asif,Programming Fundamental,10,15,35,39,99,Safe
+BSCS-F25-M-11,Hira Asif,Probability and Statistics,7,10,24,30,71,Safe
+BSCS-F25-M-11,Hira Asif,Functional English,9,13,30,36,88,Safe
+BSCS-F25-M-11,Hira Asif,Quran Translation,10,14,34,38,96,Safe
+BSCS-F25-M-12,Syed Meesam Abbas,Discrete Mathematics,10,14,33,37,94,Safe
+BSCS-F25-M-12,Syed Meesam Abbas,Information of Communication and Technology,10,15,35,40,100,Safe
+BSCS-F25-M-12,Syed Meesam Abbas,Programming Fundamental,9,12,31,36,88,Safe
+BSCS-F25-M-12,Syed Meesam Abbas,Probability and Statistics,10,14,33,39,96,Safe
+BSCS-F25-M-12,Syed Meesam Abbas,Functional English,9,13,30,35,87,Safe
+BSCS-F25-M-12,Syed Meesam Abbas,Quran Translation,10,15,34,38,97,Safe
+BSCS-F25-M-13,Muhammad Hammad Ashraf,Discrete Mathematics,9,12,29,34,84,Safe
+BSCS-F25-M-13,Muhammad Hammad Ashraf,Information of Communication and Technology,8,10,26,32,76,Safe
+BSCS-F25-M-13,Muhammad Hammad Ashraf,Programming Fundamental,10,14,32,37,93,Safe
+BSCS-F25-M-13,Muhammad Hammad Ashraf,Probability and Statistics,9,11,28,33,81,Safe
+BSCS-F25-M-13,Muhammad Hammad Ashraf,Functional English,10,15,35,40,100,Safe
+BSCS-F25-M-13,Muhammad Hammad Ashraf,Quran Translation,10,14,33,39,96,Safe
+BSCS-F25-M-14,Haleema Bibi,Discrete Mathematics,10,15,35,40,100,Safe
+BSCS-F25-M-14,Haleema Bibi,Information of Communication and Technology,9,13,31,36,89,Safe
+BSCS-F25-M-14,Haleema Bibi,Programming Fundamental,10,14,34,39,97,Safe
+BSCS-F25-M-14,Haleema Bibi,Probability and Statistics,10,15,35,40,100,Safe
+BSCS-F25-M-14,Haleema Bibi,Functional English,9,12,30,35,86,Safe
+BSCS-F25-M-14,Haleema Bibi,Quran Translation,10,14,34,39,97,Safe
+BSCS-F25-M-15,Saba Gull,Discrete Mathematics,8,11,27,33,79,Safe
+BSCS-F25-M-15,Saba Gull,Information of Communication and Technology,9,12,28,34,83,Safe
+BSCS-F25-M-15,Saba Gull,Programming Fundamental,10,14,33,38,95,Safe
+BSCS-F25-M-15,Saba Gull,Probability and Statistics,8,10,26,32,76,Safe
+BSCS-F25-M-15,Saba Gull,Functional English,9,13,31,37,90,Safe
+BSCS-F25-M-15,Saba Gull,Quran Translation,10,15,35,40,100,Safe
+BSCS-F25-M-16,Aliza,Discrete Mathematics,10,15,35,40,100,Safe
+BSCS-F25-M-16,Aliza,Information of Communication and Technology,10,14,34,39,97,Safe
+BSCS-F25-M-16,Aliza,Programming Fundamental,9,13,31,36,89,Safe
+BSCS-F25-M-16,Aliza,Probability and Statistics,10,12,32,37,91,Safe
+BSCS-F25-M-16,Aliza,Functional English,9,11,30,35,85,Safe
+BSCS-F25-M-16,Aliza,Quran Translation,10,15,35,40,100,Safe
+BSCS-F25-M-17,Sehrish Ramzan,Discrete Mathematics,9,13,30,35,87,Safe
+BSCS-F25-M-17,Sehrish Ramzan,Information of Communication and Technology,10,14,32,38,94,Safe
+BSCS-F25-M-17,Sehrish Ramzan,Programming Fundamental,8,11,28,33,80,Safe
+BSCS-F25-M-17,Sehrish Ramzan,Probability and Statistics,9,12,31,36,88,Safe
+BSCS-F25-M-17,Sehrish Ramzan,Functional English,10,15,34,39,98,Safe
+BSCS-F25-M-17,Sehrish Ramzan,Quran Translation,10,14,33,38,95,Safe
+BSCS-F25-M-18,Muhammad Rayan,Discrete Mathematics,7,9,24,29,69,Safe
+BSCS-F25-M-18,Muhammad Rayan,Information of Communication and Technology,8,10,26,32,76,Safe
+BSCS-F25-M-18,Muhammad Rayan,Programming Fundamental,9,12,30,35,86,Safe
+BSCS-F25-M-18,Muhammad Rayan,Probability and Statistics,10,14,33,38,95,Safe
+BSCS-F25-M-18,Muhammad Rayan,Functional English,8,11,27,31,77,Safe
+BSCS-F25-M-18,Muhammad Rayan,Quran Translation,9,13,31,36,89,Safe
+BSCS-F25-M-19,Laiba,Discrete Mathematics,10,15,35,40,100,Safe
+BSCS-F25-M-19,Laiba,Information of Communication and Technology,9,14,32,37,92,Safe
+BSCS-F25-M-19,Laiba,Programming Fundamental,10,15,34,39,98,Safe
+BSCS-F25-M-19,Laiba,Probability and Statistics,10,14,33,38,95,Safe
+BSCS-F25-M-19,Laiba,Functional English,9,13,31,36,89,Safe
+BSCS-F25-M-19,Laiba,Quran Translation,10,15,35,40,100,Safe
+BSCS-F25-M-20,Fasiha Shabbir,Discrete Mathematics,9,12,28,34,83,Safe
+BSCS-F25-M-20,Fasiha Shabbir,Information of Communication and Technology,8,11,27,33,79,Safe
+BSCS-F25-M-20,Fasiha Shabbir,Programming Fundamental,10,14,32,38,94,Safe
+BSCS-F25-M-20,Fasiha Shabbir,Probability and Statistics,9,13,30,35,87,Safe
+BSCS-F25-M-20,Fasiha Shabbir,Functional English,10,15,34,39,98,Safe
+BSCS-F25-M-20,Fasiha Shabbir,Quran Translation,9,12,29,36,86,Safe
+BSCS-F25-M-21,Ayesha Bashir,Discrete Mathematics,10,15,35,40,100,Safe
+BSCS-F25-M-21,Ayesha Bashir,Information of Communication and Technology,10,14,33,39,96,Safe
+BSCS-F25-M-21,Ayesha Bashir,Programming Fundamental,9,13,31,37,90,Safe
+BSCS-F25-M-21,Ayesha Bashir,Probability and Statistics,10,14,32,38,94,Safe
+BSCS-F25-M-21,Ayesha Bashir,Functional English,9,12,30,35,86,Safe
+BSCS-F25-M-21,Ayesha Bashir,Quran Translation,10,15,35,40,100,Safe
+BSCS-F25-M-22,Huzaira Bano,Discrete Mathematics,8,11,26,32,77,Safe
+BSCS-F25-M-22,Huzaira Bano,Information of Communication and Technology,9,12,29,35,85,Safe
+BSCS-F25-M-22,Huzaira Bano,Programming Fundamental,10,14,33,39,96,Safe
+BSCS-F25-M-22,Huzaira Bano,Probability and Statistics,8,10,25,31,74,Safe
+BSCS-F25-M-22,Huzaira Bano,Functional English,9,13,30,36,88,Safe
+BSCS-F25-M-22,Huzaira Bano,Quran Translation,10,14,34,38,96,Safe
+BSCS-F25-M-23,Attiqa Hijjab,Discrete Mathematics,9,13,30,35,87,Safe
+BSCS-F25-M-23,Attiqa Hijjab,Information of Communication and Technology,10,15,34,40,99,Safe
+BSCS-F25-M-23,Attiqa Hijjab,Programming Fundamental,8,12,28,34,82,Safe
+BSCS-F25-M-23,Attiqa Hijjab,Probability and Statistics,9,14,31,37,91,Safe
+BSCS-F25-M-23,Attiqa Hijjab,Functional English,10,15,35,40,100,Safe
+BSCS-F25-M-23,Attiqa Hijjab,Quran Translation,9,12,29,36,86,Safe
+BSCS-F25-M-25,Yousaf Sarfaraz,Discrete Mathematics,7,10,24,29,70,Safe
+BSCS-F25-M-25,Yousaf Sarfaraz,Information of Communication and Technology,8,11,26,32,77,Safe
+BSCS-F25-M-25,Yousaf Sarfaraz,Programming Fundamental,9,13,30,36,88,Safe
+BSCS-F25-M-25,Yousaf Sarfaraz,Probability and Statistics,10,14,33,39,96,Safe
+BSCS-F25-M-25,Yousaf Sarfaraz,Functional English,8,12,28,33,81,Safe
+BSCS-F25-M-25,Yousaf Sarfaraz,Quran Translation,9,13,31,37,90,Safe
+BSCS-F25-M-26,Noor Fatima,Discrete Mathematics,10,15,35,40,100,Safe
+BSCS-F25-M-26,Noor Fatima,Information of Communication and Technology,10,14,34,39,97,Safe
+BSCS-F25-M-26,Noor Fatima,Programming Fundamental,9,13,32,37,91,Safe
+BSCS-F25-M-26,Noor Fatima,Probability and Statistics,10,15,35,40,100,Safe
+BSCS-F25-M-26,Noor Fatima,Functional English,9,14,31,36,90,Safe
+BSCS-F25-M-26,Noor Fatima,Quran Translation,10,15,35,40,100,Safe
+BSCS-F25-M-27,Zuhran Rasool,Discrete Mathematics,8,12,27,33,80,Safe
+BSCS-F25-M-27,Zuhran Rasool,Information of Communication and Technology,9,13,29,35,86,Safe
+BSCS-F25-M-27,Zuhran Rasool,Programming Fundamental,10,14,32,38,94,Safe
+BSCS-F25-M-27,Zuhran Rasool,Probability and Statistics,8,11,26,31,76,Safe
+BSCS-F25-M-27,Zuhran Rasool,Functional English,9,12,28,34,83,Safe
+BSCS-F25-M-27,Zuhran Rasool,Quran Translation,10,15,35,39,99,Safe
+BSCS-F25-M-28,Suleman Baig,Discrete Mathematics,7,10,25,30,72,Safe
+BSCS-F25-M-28,Suleman Baig,Information of Communication and Technology,8,11,27,33,79,Safe
+BSCS-F25-M-28,Suleman Baig,Programming Fundamental,9,12,30,36,87,Safe
+BSCS-F25-M-28,Suleman Baig,Probability and Statistics,10,14,33,39,96,Safe
+BSCS-F25-M-28,Suleman Baig,Functional English,8,11,26,32,77,Safe
+BSCS-F25-M-28,Suleman Baig,Quran Translation,9,13,31,37,90,Safe
+BSCS-F25-M-29,Fawad Naeem,Discrete Mathematics,9,13,31,36,89,Safe
+BSCS-F25-M-29,Fawad Naeem,Information of Communication and Technology,10,15,35,40,100,Safe
+BSCS-F25-M-29,Fawad Naeem,Programming Fundamental,8,12,28,34,82,Safe
+BSCS-F25-M-29,Fawad Naeem,Probability and Statistics,9,14,32,38,93,Safe
+BSCS-F25-M-29,Fawad Naeem,Functional English,10,15,35,40,100,Safe
+BSCS-F25-M-29,Fawad Naeem,Quran Translation,9,13,30,35,87,Safe
+BSCS-F25-M-30,Khadija Shafiq,Discrete Mathematics,10,15,35,40,100,Safe
+BSCS-F25-M-30,Khadija Shafiq,Information of Communication and Technology,10,14,33,38,95,Safe
+BSCS-F25-M-30,Khadija Shafiq,Programming Fundamental,9,13,31,37,90,Safe
+BSCS-F25-M-30,Khadija Shafiq,Probability and Statistics,10,15,35,40,100,Safe
+BSCS-F25-M-30,Khadija Shafiq,Functional English,9,12,30,35,86,Safe
+BSCS-F25-M-30,Khadija Shafiq,Quran Translation,10,14,34,39,97,Safe
+BSCS-F25-M-31,Sofia Ilyas,Discrete Mathematics,9,12,29,35,85,Safe
+BSCS-F25-M-31,Sofia Ilyas,Information of Communication and Technology,8,11,27,33,79,Safe
+BSCS-F25-M-31,Sofia Ilyas,Programming Fundamental,10,14,33,39,96,Safe
+BSCS-F25-M-31,Sofia Ilyas,Probability and Statistics,9,13,31,37,90,Safe
+BSCS-F25-M-31,Sofia Ilyas,Functional English,10,15,35,40,100,Safe
+BSCS-F25-M-31,Sofia Ilyas,Quran Translation,9,12,28,34,83,Safe
+BSCS-F25-M-32,Ume Habiba Noor,Discrete Mathematics,10,15,35,40,100,Safe
+BSCS-F25-M-32,Ume Habiba Noor,Information of Communication and Technology,10,14,34,39,97,Safe
+BSCS-F25-M-32,Ume Habiba Noor,Programming Fundamental,9,13,31,37,90,Safe
+BSCS-F25-M-32,Ume Habiba Noor,Probability and Statistics,10,15,35,40,100,Safe
+BSCS-F25-M-32,Ume Habiba Noor,Functional English,9,14,32,38,93,Safe
+BSCS-F25-M-32,Ume Habiba Noor,Quran Translation,10,15,35,40,100,Safe
+BSCS-F25-M-33,Malaika Anam,Discrete Mathematics,8,11,26,32,77,Safe
+BSCS-F25-M-33,Malaika Anam,Information of Communication and Technology,9,12,29,35,85,Safe
+BSCS-F25-M-33,Malaika Anam,Programming Fundamental,10,14,33,39,96,Safe
+BSCS-F25-M-33,Malaika Anam,Probability and Statistics,8,10,25,31,74,Safe
+BSCS-F25-M-33,Malaika Anam,Functional English,9,13,30,36,88,Safe
+BSCS-F25-M-33,Malaika Anam,Quran Translation,10,14,34,38,96,Safe
+BSCS-F25-M-34,Umna Attique,Discrete Mathematics,9,13,30,35,87,Safe
+BSCS-F25-M-34,Umna Attique,Information of Communication and Technology,10,15,34,40,99,Safe
+BSCS-F25-M-34,Umna Attique,Programming Fundamental,8,12,28,34,82,Safe
+BSCS-F25-M-34,Umna Attique,Probability and Statistics,9,14,31,37,91,Safe
+BSCS-F25-M-34,Umna Attique,Functional English,10,15,35,40,100,Safe
+BSCS-F25-M-34,Umna Attique,Quran Translation,9,12,29,36,86,Safe
+BSCS-F25-M-35,Amna Mumtaz,Discrete Mathematics,10,15,35,40,100,Safe
+BSCS-F25-M-35,Amna Mumtaz,Information of Communication and Technology,10,14,34,39,97,Safe
+BSCS-F25-M-35,Amna Mumtaz,Programming Fundamental,9,13,32,37,91,Safe
+BSCS-F25-M-35,Amna Mumtaz,Probability and Statistics,10,15,35,40,100,Safe
+BSCS-F25-M-35,Amna Mumtaz,Functional English,9,14,31,36,90,Safe
+BSCS-F25-M-35,Amna Mumtaz,Quran Translation,10,15,35,40,100,Safe
+BSCS-F25-M-36,Mobeen Akhtar,Discrete Mathematics,8,12,27,33,80,Safe
+BSCS-F25-M-36,Mobeen Akhtar,Information of Communication and Technology,9,13,29,35,86,Safe
+BSCS-F25-M-36,Mobeen Akhtar,Programming Fundamental,10,14,32,38,94,Safe
+BSCS-F25-M-36,Mobeen Akhtar,Probability and Statistics,8,11,26,31,76,Safe
+BSCS-F25-M-36,Mobeen Akhtar,Functional English,9,12,28,34,83,Safe
+BSCS-F25-M-36,Mobeen Akhtar,Quran Translation,10,15,35,39,99,Safe
+BSCS-F25-M-37,Kanwal Iftikhar,Discrete Mathematics,10,15,35,40,100,Safe
+BSCS-F25-M-37,Kanwal Iftikhar,Information of Communication and Technology,10,14,33,38,95,Safe
+BSCS-F25-M-37,Kanwal Iftikhar,Programming Fundamental,9,13,31,37,90,Safe
+BSCS-F25-M-37,Kanwal Iftikhar,Probability and Statistics,10,15,35,40,100,Safe
+BSCS-F25-M-37,Kanwal Iftikhar,Functional English,9,12,30,35,86,Safe
+BSCS-F25-M-37,Kanwal Iftikhar,Quran Translation,10,14,34,39,97,Safe
+BSCS-F25-M-38,Amna Kamran,Discrete Mathematics,9,12,29,35,85,Safe
+BSCS-F25-M-38,Amna Kamran,Information of Communication and Technology,8,11,27,33,79,Safe
+BSCS-F25-M-38,Amna Kamran,Programming Fundamental,10,14,33,39,96,Safe
+BSCS-F25-M-38,Amna Kamran,Probability and Statistics,9,13,31,37,90,Safe
+BSCS-F25-M-38,Amna Kamran,Functional English,10,15,35,40,100,Safe
+BSCS-F25-M-38,Amna Kamran,Quran Translation,9,12,28,34,83,Safe
+BSCS-F25-M-39,Saad Riaz,Discrete Mathematics,7,10,24,29,70,Safe
+BSCS-F25-M-39,Saad Riaz,Information of Communication and Technology,8,11,26,32,77,Safe
+BSCS-F25-M-39,Saad Riaz,Programming Fundamental,9,13,30,36,88,Safe
+BSCS-F25-M-39,Saad Riaz,Probability and Statistics,10,14,33,39,96,Safe
+BSCS-F25-M-39,Saad Riaz,Functional English,8,12,28,33,81,Safe
+BSCS-F25-M-39,Saad Riaz,Quran Translation,9,13,31,37,90,Safe
+BSCS-F25-M-40,Javeria Zahid,Discrete Mathematics,10,15,35,40,100,Safe
+BSCS-F25-M-40,Javeria Zahid,Information of Communication and Technology,10,14,34,39,97,Safe
+BSCS-F25-M-40,Javeria Zahid,Programming Fundamental,9,13,31,37,90,Safe
+BSCS-F25-M-40,Javeria Zahid,Probability and Statistics,10,15,35,40,100,Safe
+BSCS-F25-M-40,Javeria Zahid,Functional English,9,14,32,38,93,Safe
+BSCS-F25-M-40,Javeria Zahid,Quran Translation,10,15,35,40,100,Safe
+BSCS-F25-M-41,Sikandar Ali,Discrete Mathematics,8,11,26,32,77,Safe
+BSCS-F25-M-41,Sikandar Ali,Information of Communication and Technology,9,12,29,35,85,Safe
+BSCS-F25-M-41,Sikandar Ali,Programming Fundamental,10,14,33,39,96,Safe
+BSCS-F25-M-41,Sikandar Ali,Probability and Statistics,8,10,25,31,74,Safe
+BSCS-F25-M-41,Sikandar Ali,Functional English,9,13,30,36,88,Safe
+BSCS-F25-M-41,Sikandar Ali,Quran Translation,10,14,34,38,96,Safe
+BSCS-F25-M-42,Syed Qalb-e- Abbas,Discrete Mathematics,9,13,30,35,87,Safe
+BSCS-F25-M-42,Syed Qalb-e- Abbas,Information of Communication and Technology,10,15,34,40,99,Safe
+BSCS-F25-M-42,Syed Qalb-e- Abbas,Programming Fundamental,8,12,28,34,82,Safe
+BSCS-F25-M-42,Syed Qalb-e- Abbas,Probability and Statistics,9,14,31,37,91,Safe
+BSCS-F25-M-42,Syed Qalb-e- Abbas,Functional English,10,15,35,40,100,Safe
+BSCS-F25-M-42,Syed Qalb-e- Abbas,Quran Translation,9,12,29,36,86,Safe
+BSCS-F25-M-43,Warda Mehar,Discrete Mathematics,10,15,35,40,100,Safe
+BSCS-F25-M-43,Warda Mehar,Information of Communication and Technology,10,14,34,39,97,Safe
+BSCS-F25-M-43,Warda Mehar,Programming Fundamental,9,13,32,37,91,Safe
+BSCS-F25-M-43,Warda Mehar,Probability and Statistics,10,15,35,40,100,Safe
+BSCS-F25-M-43,Warda Mehar,Functional English,9,14,31,36,90,Safe
+BSCS-F25-M-43,Warda Mehar,Quran Translation,10,15,35,40,100,Safe
+BSCS-F25-M-44,Arshad Ali,Discrete Mathematics,8,12,27,33,80,Safe
+BSCS-F25-M-44,Arshad Ali,Information of Communication and Technology,9,13,29,35,86,Safe
+BSCS-F25-M-44,Arshad Ali,Programming Fundamental,10,14,32,38,94,Safe
+BSCS-F25-M-44,Arshad Ali,Probability and Statistics,8,11,26,31,76,Safe
+BSCS-F25-M-44,Arshad Ali,Functional English,9,12,28,34,83,Safe
+BSCS-F25-M-44,Arshad Ali,Quran Translation,10,15,35,39,99,Safe
+BSCS-F25-M-45,Iqra Eman,Discrete Mathematics,10,15,35,40,100,Safe
+BSCS-F25-M-45,Iqra Eman,Information of Communication and Technology,10,14,33,38,95,Safe
+BSCS-F25-M-45,Iqra Eman,Programming Fundamental,9,13,31,37,90,Safe
+BSCS-F25-M-45,Iqra Eman,Probability and Statistics,10,15,35,40,100,Safe
+BSCS-F25-M-45,Iqra Eman,Functional English,9,12,30,35,86,Safe
+BSCS-F25-M-45,Iqra Eman,Quran Translation,10,14,34,39,97,Safe
+BSCS-F25-M-47,Muzzafar,Discrete Mathematics,9,12,29,35,85,Safe
+BSCS-F25-M-47,Muzzafar,Information of Communication and Technology,8,11,27,33,79,Safe
+BSCS-F25-M-47,Muzzafar,Programming Fundamental,10,14,33,39,96,Safe
+BSCS-F25-M-47,Muzzafar,Probability and Statistics,9,13,31,37,90,Safe
+BSCS-F25-M-47,Muzzafar,Functional English,10,15,35,40,100,Safe
+BSCS-F25-M-47,Muzzafar,Quran Translation,9,12,28,34,83,Safe
